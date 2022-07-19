@@ -1,2 +1,2 @@
-# cical
+# cicalculator
 Compound interest calculator
