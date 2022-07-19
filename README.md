@@ -1,0 +1,2 @@
+# cical
+Compound interest calculator
